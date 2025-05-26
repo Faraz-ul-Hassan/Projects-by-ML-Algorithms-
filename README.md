@@ -14,17 +14,12 @@ Each folder corresponds to a specific machine learning algorithm and contains:
 ## ✅ Algorithms Covered
 
 - **Supervised Learning**
-  - Linear Regression
-  - Logistic Regression
-  - Decision Trees
-  - K-Nearest Neighbors (KNN)
-  - Support Vector Machines (SVM)
-  - Naive Bayes
+  - CatboostClassifier
+
 
 - **Unsupervised Learning**
-  - K-Means Clustering
-  - Principal Component Analysis (PCA)
 
+  
 ## 📁 How to Use
 
 1. Clone the repository:

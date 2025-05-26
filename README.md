@@ -24,7 +24,7 @@ Each folder corresponds to a specific machine learning algorithm and contains:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Faraz-ul-Hassan/Projects-by-ML-Algorithms.git
+   git clone https://github.com/Faraz-ul-Hassan/Projects-by-ML-Algorithms-.git
    cd projects-by-ml-algorithms
 
 
